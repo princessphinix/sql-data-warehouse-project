@@ -45,10 +45,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
----
-
-## 🌟 About Me
-
 Hi there! I'm **Akanksha Kumari**, a Data Science and analytics graduate with an interest in data analytics, business intelligence, and data-driven problem-solving.
 
 I enjoy working with data, exploring insights, and building projects using tools like **SQL, Python, Power BI, and Excel**.
